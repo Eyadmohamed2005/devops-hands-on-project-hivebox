@@ -52,4 +52,16 @@ Here is a pre-start checklist:
 
 ## Implementation
 
-** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+
+## My Project Notes
+
+### Project Management
+
+- **Methodology:** Kanban
+- **Board:** [HiveBox Project Board](https://github.com/users/Eyadmohamed2005/projects/1/views/1)
+
+### senseBox IDs
+
+- `5eba5fbad46fb8001b799786`
+- `5c21ff8f919bf8001adf2488`
+- `5ade1acf223bd80019a1011c`
